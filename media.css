@@ -1,0 +1,50 @@
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1170px;
+    }
+}
+
+@media (max-width:991px)
+{
+    .none
+    {
+        display: none;
+    }
+    br
+    {
+        display: none;
+    }
+}
+
+@media (max-width:576px)
+{
+    .nav-bar
+    {
+        width: 90%;
+        margin: auto;
+    }
+}
+@media (min-width:768px)
+{
+    
+.absolute2
+{
+    left: 30px;
+    position: absolute;
+}
+}
+
+/* section-7 */
+
+@media (max-width:767px)
+{
+    .none2
+    {
+        display: none;
+    }
+    .foot-centar{
+        display: flex;
+        justify-content: center;
+    }
+}
+
